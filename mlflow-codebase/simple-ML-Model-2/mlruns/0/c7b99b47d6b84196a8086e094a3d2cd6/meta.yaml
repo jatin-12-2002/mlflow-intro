@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/HIMALAYA/OneDrive/Desktop/YMCA/Projectmain/DAY%205/mlflow-introduction/mlflow-codebase/simple-ML-Model-2/mlruns/0/c7b99b47d6b84196a8086e094a3d2cd6/artifacts
+end_time: 1696458894001
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c7b99b47d6b84196a8086e094a3d2cd6
+run_name: persistent-lynx-841
+run_uuid: c7b99b47d6b84196a8086e094a3d2cd6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1696458882450
+status: 3
+tags: []
+user_id: HIMALAYA

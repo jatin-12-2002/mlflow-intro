@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/HIMALAYA/OneDrive/Desktop/YMCA/Projectmain/DAY%205/mlflow-introduction/mlflow-codebase/simple-ML-Model-2/mlruns/0/e8d4f973635f48678ee43f38a28826ce/artifacts
+end_time: 1696460138667
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e8d4f973635f48678ee43f38a28826ce
+run_name: classy-bass-561
+run_uuid: e8d4f973635f48678ee43f38a28826ce
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1696460130151
+status: 3
+tags: []
+user_id: HIMALAYA

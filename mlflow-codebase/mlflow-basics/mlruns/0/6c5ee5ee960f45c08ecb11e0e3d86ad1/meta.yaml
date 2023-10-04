@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/HIMALAYA/OneDrive/Desktop/YMCA/Projectmain/DAY%205/mlflow-basics/mlruns/0/6c5ee5ee960f45c08ecb11e0e3d86ad1/artifacts
+end_time: 1696442963745
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6c5ee5ee960f45c08ecb11e0e3d86ad1
+run_name: nimble-moose-611
+run_uuid: 6c5ee5ee960f45c08ecb11e0e3d86ad1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1696442963577
+status: 3
+tags: []
+user_id: HIMALAYA

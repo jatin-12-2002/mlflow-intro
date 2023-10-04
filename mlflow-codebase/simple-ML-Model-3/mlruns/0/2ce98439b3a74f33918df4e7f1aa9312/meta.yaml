@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/HIMALAYA/OneDrive/Desktop/YMCA/Projectmain/DAY%205/mlflow-introduction/mlflow-codebase/simple-ML-Model-3/mlruns/0/2ce98439b3a74f33918df4e7f1aa9312/artifacts
+end_time: 1696462175122
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2ce98439b3a74f33918df4e7f1aa9312
+run_name: sedate-yak-890
+run_uuid: 2ce98439b3a74f33918df4e7f1aa9312
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1696462142880
+status: 3
+tags: []
+user_id: HIMALAYA

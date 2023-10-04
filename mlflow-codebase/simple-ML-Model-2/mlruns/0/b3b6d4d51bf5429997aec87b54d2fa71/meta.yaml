@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/HIMALAYA/OneDrive/Desktop/YMCA/Projectmain/DAY%205/mlflow-introduction/mlflow-codebase/simple-ML-Model-2/mlruns/0/b3b6d4d51bf5429997aec87b54d2fa71/artifacts
+end_time: 1696458614734
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b3b6d4d51bf5429997aec87b54d2fa71
+run_name: fun-goose-68
+run_uuid: b3b6d4d51bf5429997aec87b54d2fa71
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1696458601424
+status: 3
+tags: []
+user_id: HIMALAYA

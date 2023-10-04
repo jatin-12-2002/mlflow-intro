@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/HIMALAYA/OneDrive/Desktop/YMCA/Projectmain/DAY%205/mlflow-introduction/mlflow-codebase/simple-ML-Model-2/mlruns/0/9abf8b6738dd43d8989c303541aede23/artifacts
+end_time: 1696459807297
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9abf8b6738dd43d8989c303541aede23
+run_name: efficient-snail-64
+run_uuid: 9abf8b6738dd43d8989c303541aede23
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1696459799666
+status: 3
+tags: []
+user_id: HIMALAYA

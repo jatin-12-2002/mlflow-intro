@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/HIMALAYA/OneDrive/Desktop/YMCA/Projectmain/DAY%205/mlflow-introduction/mlflow-codebase/simple-ML-Model-2/mlruns/0/a7961d18b3a8478688e447feab7ff055/artifacts
+end_time: 1696460051710
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a7961d18b3a8478688e447feab7ff055
+run_name: agreeable-sloth-893
+run_uuid: a7961d18b3a8478688e447feab7ff055
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1696460043797
+status: 3
+tags: []
+user_id: HIMALAYA

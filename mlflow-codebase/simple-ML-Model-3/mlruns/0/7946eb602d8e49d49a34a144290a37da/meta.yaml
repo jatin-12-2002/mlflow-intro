@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/HIMALAYA/OneDrive/Desktop/YMCA/Projectmain/DAY%205/mlflow-introduction/mlflow-codebase/simple-ML-Model-3/mlruns/0/7946eb602d8e49d49a34a144290a37da/artifacts
+end_time: 1696462261484
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7946eb602d8e49d49a34a144290a37da
+run_name: learned-wolf-77
+run_uuid: 7946eb602d8e49d49a34a144290a37da
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1696462239313
+status: 3
+tags: []
+user_id: HIMALAYA

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/HIMALAYA/OneDrive/Desktop/YMCA/Projectmain/DAY%205/mlflow-introduction/mlflow-codebase/simple-ML-Model-2/mlruns/0/3fc6ef13ebde453bb6b95ed88813369a/artifacts
+end_time: 1696459912759
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3fc6ef13ebde453bb6b95ed88813369a
+run_name: melodic-donkey-924
+run_uuid: 3fc6ef13ebde453bb6b95ed88813369a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1696459901978
+status: 3
+tags: []
+user_id: HIMALAYA

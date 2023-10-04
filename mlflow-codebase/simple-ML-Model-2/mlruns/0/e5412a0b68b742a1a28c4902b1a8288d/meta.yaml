@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/HIMALAYA/OneDrive/Desktop/YMCA/Projectmain/DAY%205/mlflow-introduction/mlflow-codebase/simple-ML-Model-2/mlruns/0/e5412a0b68b742a1a28c4902b1a8288d/artifacts
+end_time: 1696459848384
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e5412a0b68b742a1a28c4902b1a8288d
+run_name: dapper-finch-435
+run_uuid: e5412a0b68b742a1a28c4902b1a8288d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1696459836712
+status: 3
+tags: []
+user_id: HIMALAYA

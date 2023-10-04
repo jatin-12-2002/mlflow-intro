@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/HIMALAYA/OneDrive/Desktop/YMCA/Projectmain/DAY%205/mlflow-introduction/mlflow-codebase/simple-ML-Model-2/mlruns/0/26b35f35aa0242cdbd92c4ae9031870f/artifacts
+end_time: 1696460122382
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 26b35f35aa0242cdbd92c4ae9031870f
+run_name: sneaky-eel-403
+run_uuid: 26b35f35aa0242cdbd92c4ae9031870f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1696460113622
+status: 3
+tags: []
+user_id: HIMALAYA
